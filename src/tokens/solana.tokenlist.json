@@ -78478,7 +78478,7 @@
       "address": "6x7SAmGfMANGHG4CsLPcYZ9UX2QhAS6f8WGMovB3P7RE",
       "symbol": "RBit",
       "name": "RICHBIT",
-      "decimals": 0,
+      "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/Ditonionb/crypto/main/RICHBIT_logo.png",
       "tags": [
         "social-token"
@@ -78494,6 +78494,29 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "6nYAWpqRGwXHnNgiSBPUMt31dS7dBpLLtTz3qUnwAYGN",
+      "symbol": "HODLWD",
+      "name": "HODLWOOD",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Ditonionb/HODLWD/refs/heads/main/hodl-token-black-head-on-ico.png?token=GHSAT0AAAAAADKFDDBENMGOGXOEURWK5Y3K2FR6REA",
+      "tags": [
+        "Utility-Token",
+        "social-token",
+        "nft-token",
+        "community"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/h4afYW7F",
+        "twitter": "https://x.com/Hodlwoodcity",
+        "telegram": "https://t.me/hodlwoodcity",
+        "tiktok": "https://www.tiktok.com/@hodlwood.city",
+        "instagram": "https://www.instagram.com/hodlwood.city",
+        "facebook": "https://www.facebook.com/profile.php?id=6157982152175",
+        "website": "https://hodlwood.city/"
+      }
     }
   ],
   "version": {
